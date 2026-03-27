@@ -1,11 +1,11 @@
 # Bitcoin Mempool Explorer
 
-Jednostavan alat za praćenje i analizu Bitcoin mempoola u stvarnom vremenu. 
+Jednostavan alat za praćenje i analizu Bitcoin blockchaina u stvarnom vremenu. 
 
 ### Ključne funkcionalnosti:
-* **Praćenje transakcija:** Pregled svih transakcija koje čekaju potvrdu.
-* **Analiza naknada:** Vizualizacija trenutnih cijena plina (Sats/vB) za brzu potvrdu.
-* **Statistika blokova:** Procjena popunjenosti nadolazećih blokova.
+* **Praćenje transakcija:** Pregled svih transakcija koje su se dogodile u povjesti.
+* **Analiza naknada:** Vizualizacija naknada za svaku transakciju.
+* **Statistika blokova:** Popis svih bitnih informacija o blokovima i transakcijama.
 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
